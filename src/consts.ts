@@ -7,8 +7,8 @@ export const CARD_SPACING_SM = 24
  * GitHub 仓库配置
  */
 export const GITHUB_CONFIG = {
-	OWNER: process.env.NEXT_PUBLIC_GITHUB_OWNER || 'yysuni',
-	REPO: process.env.NEXT_PUBLIC_GITHUB_REPO || '2025-blog-public',
+	OWNER: process.env.NEXT_PUBLIC_GITHUB_OWNER || 'nandieling',
+	REPO: process.env.NEXT_PUBLIC_GITHUB_REPO || 'suniblog',
 	BRANCH: process.env.NEXT_PUBLIC_GITHUB_BRANCH || 'main',
-	APP_ID: process.env.NEXT_PUBLIC_GITHUB_APP_ID || '-'
+	APP_ID: process.env.NEXT_PUBLIC_GITHUB_APP_ID || '2310548'
 } as const
