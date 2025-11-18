@@ -1,28 +1,5 @@
 [
   {
-    "slug": "readme",
-    "title": "2025 Blog 的使用引导",
-    "tags": [
-      "开源"
-    ],
-    "date": "2025-11-16",
-    "summary": "2025-blog-public 项目的使用说明以及注意事项",
-    "cover": "/blogs/readme/9532a65cc32ca5eb.png"
-  },
-  {
-    "slug": "game-again",
-    "title": "又折腾一次游戏的记录心得",
-    "tags": [
-      "笔记",
-      "心得",
-      "游戏",
-      "学习"
-    ],
-    "date": "2025-11-14",
-    "summary": "游戏难，又总会悸动",
-    "cover": "/blogs/game-again/4425a1ea5cd869ec.jpg"
-  },
-  {
     "slug": "rewrite-blog-website",
     "title": "我想重构Blog网站",
     "tags": [
