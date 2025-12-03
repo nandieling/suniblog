@@ -672,9 +672,9 @@ def test_city_functions():
 | assert a != b              | 断言两个值不相等  |
 | assert a                   | 断言a的布尔值为真 |
 | assert not a               | 断言a的布尔值为假 |
-
 | assert element in list     | 断言元素再列表中  |
 | assert element not in list | 断言元素不在列表中 |
+
 7. 装饰器 @pytest.fixture:设定一个函数供其它测试函数调用。
 8. 习题11.3：雇员 编写一个名为Employee的类，其__init__()方法接受名、姓和年薪，并将它们都
 存储在属性中。编写一个名为give_raise()的方法，它默认将年薪增加5000美元，同时能够接受其他的
